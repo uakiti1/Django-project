@@ -1,2 +1,2 @@
-# Django-project
-Lab 5 Hello World Django app
+# -Software-Architect-and-Design_Week-5
+Django app
